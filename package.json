@@ -4,12 +4,11 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "build": "--build",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "dev": "nodemon server.js",
-    "deploy-preprod": "gcloud run deploy digipin-preprod --source . --region asia-south1",
-    "deploy-prod": "gcloud run deploy digipin --source . --region asia-south1"
+    "deploy-preprod": "gcloud run deploy digipin-preprod --source . --region asia-south1 --memory 256Mi",
+    "deploy-prod": "gcloud run deploy digipin --source . --region asia-south1 --memory 256Mi"
   },
   "keywords": [],
   "author": "",
