@@ -4,7 +4,7 @@
 <tr>
 
 <td align="left" width="25%">
-<img src="docs/images/indiapost_logo_v2.webp"
+<img src="./images/indiapost_logo_v2.webp"
      alt="India Post"
      width="100"/>
 
@@ -16,7 +16,7 @@
 <td align="center" width="50%">
 
 <p align="center">
-<img src="docs//images/DIGIPIN_Logo.png"
+<img src="./images/DIGIPIN_Logo.png"
      alt="DIGIPIN logo"
      width="52"
      style="vertical-align: middle; margin-right: 12px;"/>
@@ -47,7 +47,7 @@ Government of India
 <p align="justify">
 
 <b>
-<img src="docs/images/DIGIPIN_Logo.png"
+<img src="./images/DIGIPIN_Logo.png"
      alt="DIGIPIN logo"
      width="14"
      style="vertical-align: middle; margin-right: 4px;"/>
@@ -116,7 +116,7 @@ For digital processing, storage, transmission, and interoperability, DIGIPIN sha
 
 <tr>
 <td>
-<img src="docs/images/DIGIPIN_Logo.png" alt="DIGIPIN" width="14" style="vertical-align:middle;" />
+<img src="./images/DIGIPIN_Logo.png" alt="DIGIPIN" width="14" style="vertical-align:middle;" />
 &nbsp;<b>C4P8K63M4M</b>
 </td>
 <td>✅ Approved</td>
@@ -124,7 +124,7 @@ For digital processing, storage, transmission, and interoperability, DIGIPIN sha
 
 <tr>
 <td>
-<img src="docs/images/DIGIPIN_Logo.png" alt="DIGIPIN" width="14" style="vertical-align:middle;" />
+<img src="./images/DIGIPIN_Logo.png" alt="DIGIPIN" width="14" style="vertical-align:middle;" />
 &nbsp;<b>C4P 8K63 M4M</b>
 </td>
 <td>✅ Acceptable Display Format</td>
@@ -139,7 +139,7 @@ For digital processing, storage, transmission, and interoperability, DIGIPIN sha
 
 <tr>
 <td>
-<img src="docs/images/DIGIPIN_Logo.png" alt="DIGIPIN" width="14" style="vertical-align:middle;" />
+<img src="./images/DIGIPIN_Logo.png" alt="DIGIPIN" width="14" style="vertical-align:middle;" />
 &nbsp;<b>C4P-8K6-3M4M</b>
 </td>
 <td>❌ Hyphens are not permitted</td>
