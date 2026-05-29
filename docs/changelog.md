@@ -138,3 +138,18 @@ Implementation
 - Publication of implementation guidance and technical documentation.
 
 ---
+
+## Versioning Policy
+
+DIGIPIN follows Semantic Versioning principles:
+
+- **MAJOR** version for standards revisions, breaking specification changes, or significant interoperability updates.
+- **MINOR** version for backward-compatible enhancements, new features, or additional guidance.
+- **PATCH** version for backward-compatible corrections, clarifications, and documentation updates.
+
+### Examples
+
+- v1.0.0 – Initial Release
+- v2.0.0 – May 2026 Standards Revision
+- v2.1.0 – Feature Enhancement Release
+- v2.1.1 – Maintenance and Documentation Update
